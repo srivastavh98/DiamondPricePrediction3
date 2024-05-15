@@ -1,0 +1,6 @@
+setup.py
+DimandPricePrediction.egg-info/PKG-INFO
+DimandPricePrediction.egg-info/SOURCES.txt
+DimandPricePrediction.egg-info/dependency_links.txt
+DimandPricePrediction.egg-info/top_level.txt
+src/__init__.py
